@@ -2,7 +2,9 @@
 - 👀 I’m interested in Full Stack Devolpment
 - 🌱 I’m currently learning HTMH, CSS, JAVA
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me ...
+- 📫 How to reach me 
+https://twitter.com/KailanZwas
+https://codepen.io/KailanZwas
 
 <!---
 KailanZwas/KailanZwas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
