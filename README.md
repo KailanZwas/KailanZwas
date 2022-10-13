@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KailanZwas
 - 👀 I’m interested in Full Stack Devolpment
-- 🌱 I’m currently learning HTMH, CSS, JAVA
+- 🌱 I’m currently learning HTML, CSS, JAVA
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me 
 https://twitter.com/KailanZwas
